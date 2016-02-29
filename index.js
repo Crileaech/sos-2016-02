@@ -8,7 +8,7 @@ app.listen(process.env.PORT);
 app.get("/", (req,res) => {
 	res.write("<html>");
 	res.write("<head><title>My first application on Heroku</title></head>");
-	res.write("<body><h2>Hello world from sos-2016-02 </h2></body>");
+	res.write("<body><h2>Hello world from Cristina Leal Echevarria </h2></body>");
 	res.write("</html>");
 	res.end();
 });

@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/sos-2016-02/sos-2016-02#readme",
   "dependencies": {
-    "express": "^4.13.4"
-  }
+    "express": "^4.13.4",
+    "nodejs": "0.0.0"
+  },
+  "devDependencies": {}
 }
